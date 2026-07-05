@@ -2,7 +2,7 @@
 
 # Topologi Jaringan
 
-![Topologi](screenshots/topologi.png)
+![Topologi](Screenshots Hasil/topologi.png)
 
 ## Kelompok X
 
