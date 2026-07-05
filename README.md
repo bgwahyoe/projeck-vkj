@@ -4,7 +4,7 @@
 
 ![Topologi](dokumentasi_pengerjaan/topologi.png)
 
-## Kelompok X
+## Kelompok 6
 
 Anggota:
 
