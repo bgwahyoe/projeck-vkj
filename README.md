@@ -1,5 +1,9 @@
 # Virtual Network Security Project (VKJ)
 
+# Topologi Jaringan
+
+![Topologi](screenshots/topologi.png)
+
 ## Kelompok X
 
 Anggota:
