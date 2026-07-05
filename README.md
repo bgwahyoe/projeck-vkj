@@ -33,17 +33,7 @@ LAN Database (192.168.56.10)
 
 ---
 
-## Struktur Project
 
-project-vkj/
-├── docker/
-├── mikrotik/
-├── nginx/
-├── sql/
-├── suricata/
-└── screenshots/
-
----
 
 ## Menjalankan Docker
 
