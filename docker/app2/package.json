@@ -1,0 +1,8 @@
+{
+  "name": "app2",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.10.0"
+  }
+}
