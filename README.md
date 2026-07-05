@@ -23,13 +23,7 @@ Anggota:
 
 ## Topologi
 
-External
-↓
-MikroTik CHR
-↓
-DMZ (7.7.7.2)
-↓
-LAN Database (192.168.56.10)
+External - MikroTik CHR - DMZ (7.7.7.2) - LAN Database (192.168.56.10)
 
 ---
 
